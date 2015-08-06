@@ -9,4 +9,4 @@ Challenge 6 COMPLETE
 Challenge 7a COMPLETE
 Challenge 7b COMPLETE
 Challenge 7c COMPLETE
-Challenge 8 in progress
+Challenge 8 almost complete
