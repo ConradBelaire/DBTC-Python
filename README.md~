@@ -10,3 +10,5 @@ Challenge 7a COMPLETE
 Challenge 7b COMPLETE
 Challenge 7c COMPLETE
 Challenge 8 COMPLETE
+Challenge 9 COMPLETE
+Challenge 10 COMPLETE
